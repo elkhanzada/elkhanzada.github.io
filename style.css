@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 *,
 *::before,
 *::after {
@@ -528,6 +531,10 @@ section#testimonials {
   font-size: 3rem;
   text-transform: uppercase;
 }
+.testimonials__card--img_mobile {
+  width: 60%;
+  height: 60%;
+}
 
 .testimonials__card--content__para {
   font-family: "Indie Flower", cursive;
@@ -543,6 +550,16 @@ section#testimonials {
   transform: scaleY(0);
   transform-origin: top;
   transition: transform 0.35s ease-in-out;
+}
+.testimonials__card--content_mobile {
+  top: 70.5%;
+  width: 54%;
+  left: 5%;
+}
+.testimonials__card--content_web {
+  top: 53.5%;
+  width: 90%;
+  left: 5%;
 }
 .testimonials__card:hover .testimonials__card--content,
 .testimonials__card:active .testimonials__card--content {
