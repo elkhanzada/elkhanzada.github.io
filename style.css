@@ -136,7 +136,7 @@ ul.header__main-nav--links li a:active::after {
 }
 section#showcase {
   height: 100vh;
-  background: linear-gradient(89deg, #ff5edf 0%, #04c8de 100%);
+  background-image: url("img/showcase.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -573,7 +573,7 @@ section#testimonials {
 }
 section#contact {
   height: 100vh;
-  background: linear-gradient(89deg, #ff5edf 0%, #04c8de 100%);
+  background-image: url("img/contact.jpg");
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
@@ -582,7 +582,7 @@ section#contact {
   flex-basis: 40rem;
   display: flex;
   flex-direction: column;
-  background: linear-gradient(89deg, #ff5edf 0%, #04c8de 100%);
+  background: var(--secondary-color-m);
 }
 .contact__form input,
 .contact__form textarea {
@@ -599,6 +599,7 @@ section#contact {
   color: black;
 }
 .contact__form textarea {
+  resize: none;
   height: 30vh;
 }
 input[type="submit"] {
