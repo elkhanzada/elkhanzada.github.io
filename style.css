@@ -607,9 +607,9 @@ input[type="submit"] {
   cursor: pointer;
 }
 
-@media screen and (min-width: 1510px) {
+@media screen and (min-width: 1600) {
   body {
-    width: 1510px;
+    width: 1600px;
     margin: 0 auto;
   }
 }
