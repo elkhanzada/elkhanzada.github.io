@@ -19,7 +19,8 @@ html {
 }
 
 body {
-  font-family: "Baloo Tamma 2", cursive;
+  font-family: ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI",
+    "Helvetica Neue", "Lucida Grande", Arial;
   line-height: 1.8;
   display: flex;
 }
@@ -169,7 +170,8 @@ div.showcase__content {
   color: white;
 }
 .showcase__content--para {
-  font-family: "Indie Flower", cursive;
+  font-family: ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI",
+    "Helvetica Neue", "Lucida Grande", Arial;
   font-size: calc(1.5rem + 1vw);
   color: white;
 }
@@ -281,7 +283,8 @@ section#about-me {
 }
 .about-me__content--para {
   font-size: 1.8rem;
-  font-family: "Indie Flower", cursive;
+  font-family: ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI",
+    "Helvetica Neue", "Lucida Grande", Arial;
 }
 
 .about-me__content--link:link,
@@ -363,7 +366,8 @@ section#services {
   text-transform: uppercase;
 }
 .services--para {
-  font-family: "Indie Flower", cursive;
+  font-family: ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI",
+    "Helvetica Neue", "Lucida Grande", Arial;
   font-size: 2rem;
   color: white;
 }
@@ -537,7 +541,8 @@ section#testimonials {
 }
 
 .testimonials__card--content__para {
-  font-family: "Indie Flower", cursive;
+  font-family: ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI",
+    "Helvetica Neue", "Lucida Grande", Arial;
   font-size: 1.5rem;
 }
 .testimonials__card--content {
@@ -587,7 +592,8 @@ section#contact {
 .contact__form input,
 .contact__form textarea {
   color: black;
-  font-family: "Indie Flower", cursive;
+  font-family: ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI",
+    "Helvetica Neue", "Lucida Grande", Arial;
   font-size: 1.5rem;
   letter-spacing: 0.2rem;
   padding: 2rem;
