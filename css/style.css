@@ -137,7 +137,7 @@ ul.header__main-nav--links li a:active::after {
 }
 section#showcase {
   height: 100vh;
-  background-image: url("img/showcase.jpg");
+  background-image: url("../img/showcase.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -578,7 +578,7 @@ section#testimonials {
 }
 section#contact {
   height: 100vh;
-  background-image: url("img/contact.jpg");
+  background-image: url("../img/contact.jpg");
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
