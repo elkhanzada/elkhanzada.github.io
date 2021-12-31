@@ -44,7 +44,7 @@ I am also creator of two quiz games, namely **Tapmaca** and **Paytaxt** which ar
   <br>
   Nature Communications (Under Review).
   <br>
-  [[PDF](https://arxiv.org/pdf/2104.09164.pdf)]
+  [[Paper](https://arxiv.org/pdf/2104.09164.pdf)]
 
 - **Speeding up Constraint-Based Program Repair Using a Search-Based Technique**
   <br>
@@ -52,7 +52,7 @@ I am also creator of two quiz games, namely **Tapmaca** and **Paytaxt** which ar
   <br>
   Information and Software Technology (Under Review).
   <br>
-  [[PDF](https://drive.google.com/file/d/1oD8zN-PcaB-nPoqCyt2UEuuDM4KlH3Jl/view)]
+  [[Paper](https://drive.google.com/file/d/1oD8zN-PcaB-nPoqCyt2UEuuDM4KlH3Jl/view)]
   [[Code](https://github.com/jyi/fangelix)]
 
 - **Bang for the Buck: Filtering Out Hundreds of Incorrect Patches with a Single Generalized Test**
@@ -61,7 +61,7 @@ I am also creator of two quiz games, namely **Tapmaca** and **Paytaxt** which ar
   <br>
   ACM/IEEE International Conference on Software Engineering (Under Review).
   <br>
-  [[PDF](https://drive.google.com/file/d/1DWVdYkE-YaJ886n78ZIzWbLuJTXqEZWm/view)]
+  [[Paper](https://drive.google.com/file/d/1DWVdYkE-YaJ886n78ZIzWbLuJTXqEZWm/view)]
   [[Code](https://github.com/poracle100/poracle-experiments)]
 
 - **Development of news article recommendation system via reinforcement learning**
