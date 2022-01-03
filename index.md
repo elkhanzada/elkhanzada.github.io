@@ -71,3 +71,4 @@ I am also creator of two quiz games, namely **Tapmaca** and **Paytaxt** which ar
   Poster presented at: UNIST; Dec 3 2021; Ulsan, Republic of Korea.
   <br>
   [[Poster](https://drive.google.com/file/d/1NgkcPL2f6GhuSm-gaBw9lTEbMrHrZZ1S/view)]
+  [[Code](https://github.com/kcsayem/Parallelization-of-bandit-algorithms-to-reduce-computational-cost-of-news-article-recommendation-sys)]
