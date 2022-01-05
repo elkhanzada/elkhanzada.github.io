@@ -34,7 +34,7 @@ I am also creator of two quiz games, namely **Tapmaca** and **Paytaxt** which ar
   **Project:** Investigations on automated program repair tools \\
   **Supervisor:** Jooyong Yi \\
   **Focus:** Overfitting problem of automated program repair tools \\
-  Jan 2021 – Feb 2021
+  Jan 2020 – Feb 2021
 
 ## Publications
 
