@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a senior student at UNIST (Ulsan National Institute of Science and Technology) studying Computer Sciene and Engineering in undergraduate level. I have worked as a research assistant in Software Engineering lab for a year. Currently, however, I am a research assistant in Applied Cryptography lab. The research area is privacy-preserving machine learning.
+I am a senior student at UNIST (Ulsan National Institute of Science and Technology) studying Computer Science and Engineering in undergraduate level. I have worked as a research assistant in Software Engineering lab for a year. Currently, however, I am a research assistant in Applied Cryptography lab. The research area is privacy-preserving machine learning.
 
 I am also creator of two quiz games, namely **Tapmaca** and **Paytaxt** which are published in Google Play Store. The former has over 100 thousand and the latter has over 10 thousand downloads. The games are made with Unity.
 
