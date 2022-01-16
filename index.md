@@ -24,7 +24,7 @@ I am also creator of two quiz games, namely **Tapmaca** and **Paytaxt** which ar
 
 - **Undergraduate Research Assistant**, Department of Computer Science and Engineering \\
   **Applied Cryptography Lab**, Ulsan National Institute of Science and Technology \\
-  **Project:** Privacy-­preserving Machine Learning \\
+  **Project:** Privacy-preserving Machine Learning \\
   **Supervisor:** Miran Kim \\
   **Focus:** Secure computation during training and inference phase of model using HE \\
   Mar 2021 – Present
