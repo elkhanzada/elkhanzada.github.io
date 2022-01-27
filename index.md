@@ -50,7 +50,7 @@ I am also creator of two quiz games, namely **Tapmaca** and **Paytaxt** which ar
   <br>
   Jooyong Yi, and **Elkhan Ismayilzada**
   <br>
-  Information and Software Technology (Under Review).
+  Information and Software Technology. IST 2022.
   <br>
   [[Paper](https://drive.google.com/file/d/1oD8zN-PcaB-nPoqCyt2UEuuDM4KlH3Jl/view)]
   [[Code](https://github.com/jyi/fangelix)]
@@ -59,7 +59,7 @@ I am also creator of two quiz games, namely **Tapmaca** and **Paytaxt** which ar
   <br>
   **Elkhan Ismayilzada**, Mazba Ur Rahman, Dongsun Kim, and Jooyong Yi
   <br>
-  ACM/IEEE International Conference on Software Engineering (Under Review).
+  International Symposium on Software Testing and Analysis (Under Review).
   <br>
   [[Paper](https://drive.google.com/file/d/1DWVdYkE-YaJ886n78ZIzWbLuJTXqEZWm/view)]
   [[Code](https://github.com/poracle100/poracle-experiments)]
