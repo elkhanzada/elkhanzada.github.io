@@ -73,7 +73,7 @@ I am also creator of two quiz games, namely **Tapmaca** and **Paytaxt** which ar
   <br>
   **Elkhan Ismayilzada**, Mazba Ur Rahman, Dongsun Kim, and Jooyong Yi
   <br>
-  International Symposium on Software Testing and Analysis (Under Review).
+  International Conference on Software Engineering (Under Review).
   <br>
   [[Poster](https://drive.google.com/file/d/1pLrGCSrLL-ICqgwZ0KLVnZNNkUpbvF7t/view)]
   [[Code](https://github.com/poracle100/poracle-experiments)]
