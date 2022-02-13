@@ -38,6 +38,8 @@ I am also creator of two quiz games, namely **Tapmaca** and **Paytaxt** which ar
 
 ## Publications
 
+### Journals
+
 - **HEAR: Human Action Recognition via Neural Networks on Homomorphically Encrypted Data**
   <br>
   Miran Kim, Xiaoqian Jiang, Kristin Lauter, **Elkhan Ismayilzada**, and Shayan Shams
@@ -50,18 +52,30 @@ I am also creator of two quiz games, namely **Tapmaca** and **Paytaxt** which ar
   <br>
   Jooyong Yi, and **Elkhan Ismayilzada**
   <br>
-  Information and Software Technology. IST 2022.
+  Information and Software Technology. Vol 146. IST 2022.
   <br>
-  [[Paper](https://drive.google.com/file/d/1oD8zN-PcaB-nPoqCyt2UEuuDM4KlH3Jl/view)]
+  [[Paper](https://doi.org/10.1016/j.infsof.2022.106865)]
   [[Code](https://github.com/jyi/fangelix)]
 
-- **Bang for the Buck: Filtering Out Hundreds of Incorrect Patches with a Single Generalized Test**
+### Conferences
+
+- **Poracle: Testing Patches Under Preservation Conditions To Combat the Overfitting Problem of Program Repair**
   <br>
   **Elkhan Ismayilzada**, Mazba Ur Rahman, Dongsun Kim, and Jooyong Yi
   <br>
   International Symposium on Software Testing and Analysis (Under Review).
   <br>
   [[Paper](https://drive.google.com/file/d/1DWVdYkE-YaJ886n78ZIzWbLuJTXqEZWm/view)]
+  [[Code](https://github.com/poracle100/poracle-experiments)]
+  
+### Posters
+- **Bang for the Buck: Filtering Out Hundreds of Incorrect Patches with a Single Generalized Test**
+  <br>
+  **Elkhan Ismayilzada**, Mazba Ur Rahman, Dongsun Kim, and Jooyong Yi
+  <br>
+  International Symposium on Software Testing and Analysis (Under Review).
+  <br>
+  [[Poster](https://drive.google.com/file/d/1pLrGCSrLL-ICqgwZ0KLVnZNNkUpbvF7t/view)]
   [[Code](https://github.com/poracle100/poracle-experiments)]
 
 - **Development of news article recommendation system via reinforcement learning**
