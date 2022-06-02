@@ -58,15 +58,6 @@ I am also creator of two quiz games, namely **Tapmaca** and **Paytaxt** which ar
   [[Code](https://github.com/jyi/fangelix)]
 
 ### Conferences
-
-- **Poracle: Testing Patches Under Preservation Conditions To Combat the Overfitting Problem of Program Repair**
-  <br>
-  **Elkhan Ismayilzada**, Mazba Ur Rahman, Dongsun Kim, and Jooyong Yi
-  <br>
-  International Conference on Software Maintenance and Evolution (Under Review).
-  <br>
-  [[Paper](https://drive.google.com/file/d/1OoZoNm-GDGORNuUtSGpgpjZZwxLTtpek/view)]
-  [[Code](https://github.com/poracle100/poracle-experiments)]
   
 ### Posters
 - **Bang for the Buck: Filtering Out Hundreds of Incorrect Patches with a Single Generalized Test**
