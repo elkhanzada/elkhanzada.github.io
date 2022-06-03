@@ -16,7 +16,7 @@ I am also creator of two quiz games, namely **Tapmaca** and **Paytaxt** which ar
 ## Education
 
 - B.Sc. in Computer Science and Engineering, **UNIST**, South Korea \\
-  2018 – Present
+  2018 – 2022
 - B.Eng. in Computer Engineering, **Baku Engineering University**, Azerbaijan \\
   2015 – 2018
 
