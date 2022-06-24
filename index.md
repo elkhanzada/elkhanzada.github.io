@@ -10,8 +10,8 @@ I am also creator of two quiz games, namely Tapmaca and Paytaxt which are publis
 
 ## Research Interests
 
-- **Computer Vision:** human pose estimation, action recognition
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** human pose estimation, action recognition, object detection, semantic segmentation
+- **Machine Learning:** deep learning, meta-learning, incremental learning
 
 ## Education
 
