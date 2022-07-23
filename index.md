@@ -67,6 +67,15 @@ I am also creator of two quiz games, namely Tapmaca and Paytaxt which are publis
   [[Poster](https://drive.google.com/file/d/1NgkcPL2f6GhuSm-gaBw9lTEbMrHrZZ1S/view)]
   [[Code](https://github.com/kcsayem/Parallelization-of-bandit-algorithms-to-reduce-computational-cost-of-news-article-recommendation-sys)]
 
+- **Bang for the Buck: Filtering Out Hundreds of Incorrect Patches with a Single Generalized Test**
+  <br>
+  **Elkhan Ismayilzada**, Mazba Ur Rahman, Dongsun Kim, and Jooyong Yi
+  <br>
+  International Conference on Software Engineering (Submitted).
+  <br>
+  [[Poster](https://drive.google.com/file/d/1pLrGCSrLL-ICqgwZ0KLVnZNNkUpbvF7t/view)]
+  [[Code](https://github.com/poracle100/poracle-experiments)]
+
 ## Projects
 - **UNIST Projects** 
   <br>
