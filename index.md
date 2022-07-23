@@ -25,7 +25,7 @@ I am also creator of two quiz games, namely Tapmaca and Paytaxt which are publis
   **Project:** Privacy-preserving Machine Learning \\
   **Supervisor:** Miran Kim \\
   **Focus:** Secure computation during training and inference phase of model using HE \\
-  Mar 2021 – Present
+  Mar 2021 – Jun 2022
 
 - **Undergraduate Research Assistant**, Department of Computer Science and Engineering \\
   **Software Engineering Lab**, Ulsan National Institute of Science and Technology \\
