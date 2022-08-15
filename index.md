@@ -38,7 +38,7 @@ I am also creator of two quiz games, namely Tapmaca and Paytaxt which are publis
 
 ### Journals
 
-- **HEAR: Human Action Recognition via Neural Networks on Homomorphically Encrypted Data**
+- **Secure human action recognition by encrypted neural network inference**
   <br>
   Miran Kim, Xiaoqian Jiang, Kristin Lauter, **Elkhan Ismayilzada**, and Shayan Shams
   <br>
