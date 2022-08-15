@@ -42,9 +42,9 @@ I am also creator of two quiz games, namely Tapmaca and Paytaxt which are publis
   <br>
   Miran Kim, Xiaoqian Jiang, Kristin Lauter, **Elkhan Ismayilzada**, and Shayan Shams
   <br>
-  Nature Communications (Under Review).
+  Nature Communications.
   <br>
-  [[Paper](https://arxiv.org/pdf/2104.09164.pdf)]
+  [[Paper](https://doi.org/10.1038/s41467-022-32168-5)]
 
 - **Speeding up Constraint-Based Program Repair Using a Search-Based Technique**
   <br>
