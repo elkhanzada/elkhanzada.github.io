@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a senior student at UNIST (Ulsan National Institute of Science and Technology) studying Computer Science and Engineering. From the very beginning of undergraduate studies (sophomore), I have been interested in participating in research activities in the areas of Computer Science. During 2020, I have worked as a research assistant in Software Engineering lab with focus on patch validation and currently, I am a research assistant in Applied Cryptography lab with focus on privacy-preserving machine learning.
+I am a MSc candidate in [CSE](https://cse.unist.ac.kr/) at the [UNIST](https://www.unist.ac.kr/) advised by Prof. [Seungryul Baek](https://sites.google.com/site/bsrvision00/) where I am a member of UNIST Vision and Learning ([UVL](http://vision.unist.ac.kr)) Lab. My current research interests include human pose estimation, action recognition, deep learning.
+
+From the very beginning of undergraduate studies (sophomore), I have been interested in participating in research activities in the areas of Computer Science. During 2020, I have worked as a research assistant in Software Engineering lab with focus on patch validation, and later I was a research assistant in Applied Cryptography lab with focus on privacy-preserving machine learning.
 
 I am also creator of two quiz games, namely Tapmaca and Paytaxt which are published in Google Play Store. The former has over 100 thousand and the latter has over 10 thousand downloads.
 
@@ -14,12 +16,21 @@ I am also creator of two quiz games, namely Tapmaca and Paytaxt which are publis
 - **Machine Learning:** deep learning, meta-learning, incremental learning
 
 ## Education
-
+- M.Sc. in Computer Science and Engineering, **UNIST**, South Korea \\
+  2022 – 2024
+  
 - B.Sc. in Computer Science and Engineering, **UNIST**, South Korea \\
   2018 – 2022
 
 ## Research Experience
 
+- **Graduate Research Assistant**, Department of Computer Science and Engineering \\
+  **UNIST Vision and Learning**, Ulsan National Institute of Science and Technology \\
+  **Project:** TBD \\
+  **Supervisor:** Seungryul Baek \\
+  **Focus:** TBD \\
+  Sep 2022 – Present
+  
 - **Undergraduate Research Assistant**, Department of Computer Science and Engineering \\
   **Applied Cryptography Lab**, Ulsan National Institute of Science and Technology \\
   **Project:** Privacy-preserving Machine Learning \\
