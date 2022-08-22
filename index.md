@@ -53,7 +53,7 @@ I am also creator of two quiz games, namely Tapmaca and Paytaxt which are publis
   <br>
   Miran Kim, Xiaoqian Jiang, Kristin Lauter, **Elkhan Ismayilzada**, and Shayan Shams
   <br>
-  Nature Communications.
+  Nature Communications 13 (1), 1-13, 2022
   <br>
   [[Paper](https://doi.org/10.1038/s41467-022-32168-5)]
 
@@ -61,7 +61,7 @@ I am also creator of two quiz games, namely Tapmaca and Paytaxt which are publis
   <br>
   Jooyong Yi, and **Elkhan Ismayilzada**
   <br>
-  Information and Software Technology. Vol 146. IST 2022.
+  Information and Software Technology 146, 106865, 2022
   <br>
   [[Paper](https://doi.org/10.1016/j.infsof.2022.106865)]
   [[Code](https://github.com/jyi/fangelix)]
