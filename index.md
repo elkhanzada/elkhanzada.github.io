@@ -17,7 +17,7 @@ I am also creator of two quiz games, namely Tapmaca and Paytaxt which are publis
 
 ## Education
 - M.Sc. in Computer Science and Engineering, **UNIST**, South Korea \\
-  2022 – 2024
+  2022 – Present
   
 - B.Sc. in Computer Science and Engineering, **UNIST**, South Korea \\
   2018 – 2022
@@ -26,10 +26,18 @@ I am also creator of two quiz games, namely Tapmaca and Paytaxt which are publis
 
 - **Graduate Research Assistant**, Department of Computer Science and Engineering \\
   **UNIST Vision and Learning**, Ulsan National Institute of Science and Technology \\
-  **Project:** TBD \\
+  **Project:** Object detection \\
   **Supervisor:** Seungryul Baek \\
-  **Focus:** TBD \\
+  **Focus:** Pedestrian detection \\
   Sep 2022 – Present
+  
+- **Undergraduate Research Assistant**, Department of Computer Science and Engineering \\
+  **Statistical Decision Making Lab**, Ulsan National Institute of Science and Technology \\
+  **Project:** Contextual Multi-armed bandit algorithms \\
+  **Supervisor:** Gi-Soo Kim \\
+  **Focus:** Semiparametric contextual bandits \\
+  Mar 2021 – Oct 2022
+  
   
 - **Undergraduate Research Assistant**, Department of Computer Science and Engineering \\
   **Applied Cryptography Lab**, Ulsan National Institute of Science and Technology \\
