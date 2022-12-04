@@ -31,7 +31,7 @@ I am also creator of two quiz games, namely Tapmaca and Paytaxt which are publis
   **Focus:** Pedestrian detection \\
   Sep 2022 – Present
   
-- **Undergraduate Research Assistant**, Department of Computer Science and Engineering \\
+- **Research Assistant**, Department of Computer Science and Engineering \\
   **Statistical Decision Making Lab**, Ulsan National Institute of Science and Technology \\
   **Project:** Contextual Multi-armed bandit algorithms \\
   **Supervisor:** Gi-Soo Kim \\
@@ -39,14 +39,14 @@ I am also creator of two quiz games, namely Tapmaca and Paytaxt which are publis
   Mar 2021 – Oct 2022
   
   
-- **Undergraduate Research Assistant**, Department of Computer Science and Engineering \\
+- **Research Assistant**, Department of Computer Science and Engineering \\
   **Applied Cryptography Lab**, Ulsan National Institute of Science and Technology \\
   **Project:** Privacy-preserving Machine Learning \\
   **Supervisor:** Miran Kim \\
   **Focus:** Secure computation during training and inference phase of model using HE \\
-  Mar 2021 – Jun 2022
+  Mar 2021 – Sep 2022
 
-- **Undergraduate Research Assistant**, Department of Computer Science and Engineering \\
+- **Research Assistant**, Department of Computer Science and Engineering \\
   **Software Engineering Lab**, Ulsan National Institute of Science and Technology \\
   **Project:** Investigations on automated program repair tools \\
   **Supervisor:** Jooyong Yi \\
