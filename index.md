@@ -55,6 +55,16 @@ I am also creator of two quiz games, namely Tapmaca and Paytaxt which are publis
 
 ## Publications
 
+### Conferences
+- **Transformer-based Unified Recognition of Two Hands Manipulating Objects**
+  <br>
+  Hoseong Cho, Chanwoo Kim, Jihyeon Kim, Seongyeong Lee, **Elkhan Ismayilzada**, and Seungryul Baek
+  <br>
+  Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), 2023
+  <br>
+  [[Paper]()]
+
+
 ### Journals
 
 - **Secure human action recognition by encrypted neural network inference**
@@ -73,8 +83,6 @@ I am also creator of two quiz games, namely Tapmaca and Paytaxt which are publis
   <br>
   [[Paper](https://doi.org/10.1016/j.infsof.2022.106865)]
   [[Code](https://github.com/jyi/fangelix)]
-
-### Conferences
   
 ### Posters
 - **Development of news article recommendation system via reinforcement learning**
