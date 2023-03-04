@@ -6,10 +6,6 @@ layout: homepage
 
 I am a MSc candidate in [CSE](https://cse.unist.ac.kr/) at [UNIST](https://www.unist.ac.kr/) advised by Prof. [Seungryul Baek](https://sites.google.com/site/bsrvision00/) where I am a member of UNIST Vision and Learning ([UVL](http://vision.unist.ac.kr)) Lab. My current research interests include human pose estimation, action recognition, deep learning.
 
-From the very beginning of undergraduate studies (sophomore), I have been interested in participating in research activities in the areas of Computer Science. During 2020, I have worked as a research assistant in Software Engineering lab with focus on patch validation, and later I was a research assistant in Applied Cryptography lab with focus on privacy-preserving machine learning.
-
-I am also creator of two quiz games, namely Tapmaca and Paytaxt which are published in Google Play Store. The former has over 100 thousand and the latter has over 10 thousand downloads.
-
 ## Research Interests
 
 - **Computer Vision:** human pose estimation, action recognition, object detection, semantic segmentation
