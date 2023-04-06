@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a MSc candidate in [CSE](https://cse.unist.ac.kr/) at [UNIST](https://www.unist.ac.kr/) advised by Prof. [Seungryul Baek](https://sites.google.com/site/bsrvision00/) where I am a member of UNIST Vision and Learning ([UVL](http://vision.unist.ac.kr)) Lab. My current research interests include human pose estimation, action recognition, deep learning.
+I am a MSc candidate in [CSE](https://cse.unist.ac.kr/) at [UNIST](https://www.unist.ac.kr/) advised by Prof. [Seungryul Baek](https://sites.google.com/site/bsrvision00/) where I am a member of UNIST Vision and Learning ([UVL](http://vision.unist.ac.kr)) Lab. My current research interests include human pose estimation, action recognition, object detection/segmentation.
 
 ## Research Interests
 
-- **Computer Vision:** human pose estimation, action recognition, object detection, semantic segmentation
-- **Machine Learning:** deep learning, meta-learning, incremental learning
+- **Computer Vision:** human pose estimation, action recognition, object detection/segmentation.
+- **Machine Learning:** deep learning, meta-learning, incremental learning.
 
 ## Education
 - M.Sc. in Computer Science and Engineering, **UNIST**, South Korea \\
@@ -22,9 +22,9 @@ I am a MSc candidate in [CSE](https://cse.unist.ac.kr/) at [UNIST](https://www.u
 
 - **Graduate Research Assistant**, Department of Computer Science and Engineering \\
   **UNIST Vision and Learning**, Ulsan National Institute of Science and Technology \\
-  **Project:** Object detection \\
+  **Project:** Object segmentation \\
   **Supervisor:** Seungryul Baek \\
-  **Focus:** Pedestrian detection \\
+  **Focus:** Human instance segmentation \\
   Sep 2022 – Present
   
 - **Research Assistant**, Department of Computer Science and Engineering \\
