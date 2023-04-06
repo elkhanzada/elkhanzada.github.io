@@ -49,6 +49,11 @@ I am a MSc candidate in [CSE](https://cse.unist.ac.kr/) at [UNIST](https://www.u
   **Focus:** Overfitting problem of automated program repair tools \\
   Jan 2020 – Feb 2021
 
+## Work experience
+**Teaching Assistant**, Department of Computer Science and Engineering \\
+Organized the exams, made and evaluated programming assignments in CSE472 Computer Vision. \\
+Sep 2022 - Dec 2022
+
 ## Publications
 
 ### Conferences
