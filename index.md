@@ -22,9 +22,9 @@ I am a MSc candidate in [CSE](https://cse.unist.ac.kr/) at [UNIST](https://www.u
 
 - **Graduate Research Assistant**, Department of Computer Science and Engineering \\
   **UNIST Vision and Learning**, Ulsan National Institute of Science and Technology \\
-  **Project:** Object segmentation \\
+  **Project:** Pose estimation \\
   **Supervisor:** Seungryul Baek \\
-  **Focus:** Human instance segmentation \\
+  **Focus:** Hand pose estimation \\
   Sep 2022 – Present
   
 - **Research Assistant**, Department of Computer Science and Engineering \\
