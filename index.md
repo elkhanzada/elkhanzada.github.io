@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a MSc candidate in [CSE](https://cse.unist.ac.kr/) at [UNIST](https://www.unist.ac.kr/) advised by Prof. [Seungryul Baek](https://sites.google.com/site/bsrvision00/) where I am a member of UNIST Vision and Learning ([UVL](http://vision.unist.ac.kr)) Lab. My current research interests include human pose estimation, action recognition, object detection/segmentation.
+I am a MSc candidate in [CSE](https://cse.unist.ac.kr/) at [UNIST](https://www.unist.ac.kr/) advised by Prof. [Seungryul Baek](https://sites.google.com/site/bsrvision00/) where I am a member of UNIST Vision and Learning ([UVL](http://vision.unist.ac.kr)) Lab. My current research interests include pose estimation, action recognition, object detection/segmentation.
 
 ## Research Interests
 
