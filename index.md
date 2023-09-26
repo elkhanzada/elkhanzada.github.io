@@ -67,6 +67,14 @@ I am a MSc candidate in [CSE](https://cse.unist.ac.kr/) at [UNIST](https://www.u
 
 
 ### Journals
+- **Poracle: Testing Patches Under Preservation Conditions to Combat the Overfitting Problem of Program Repair**
+  <br>
+  **Elkhan Ismayilzada**, Md Mazba Ur Rahman, Dongsun Kim, Jooyong Yi
+  <br>
+  ACM Transactions on Software Engineering and Methodology (TOSEM), 2023
+  <br>
+  [[Paper](https://dl.acm.org/doi/10.1145/3625293)]
+  [[Code](https://github.com/UNIST-LOFT/poracle)]
 
 - **Secure human action recognition by encrypted neural network inference**
   <br>
