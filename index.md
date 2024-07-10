@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a MSc candidate in [CSE](https://cse.unist.ac.kr/) at [UNIST](https://www.unist.ac.kr/) advised by Prof. [Seungryul Baek](https://sites.google.com/site/bsrvision00/) where I am a member of UNIST Vision and Learning ([UVL](http://vision.unist.ac.kr)) Lab. My current research interests include 3D reconstruction, pose estimation, action recognition, object detection.
+I am a PhD candidate in [CSE](https://engineering.msu.edu/about/departments/cse) at [Michigan State University](https://msu.edu/). My current research interests include 3D reconstruction, pose estimation, action recognition, object detection.
 
 ## Research Interests
 
@@ -12,6 +12,9 @@ I am a MSc candidate in [CSE](https://cse.unist.ac.kr/) at [UNIST](https://www.u
 - **Machine Learning:** deep learning, meta-learning, incremental learning.
 
 ## Education
+- PhD in Computer Science and Engineering, **Michigan State University**, USA \\
+  2024 – Present
+
 - M.Sc. in Computer Science and Engineering, **UNIST**, South Korea \\
   2022 – 2024
   
