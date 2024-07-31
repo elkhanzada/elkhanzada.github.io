@@ -28,7 +28,7 @@ I am a PhD candidate in [CSE](https://engineering.msu.edu/about/departments/cse)
   **Project:** Pose estimation \\
   **Supervisor:** Seungryul Baek \\
   **Focus:** Hands-object pose estimation \\
-  Sep 2022 – Present
+  Sep 2022 – Jul 2024
   
 - **Research Assistant**, Department of Computer Science and Engineering \\
   **Statistical Decision Making Lab**, Ulsan National Institute of Science and Technology \\
