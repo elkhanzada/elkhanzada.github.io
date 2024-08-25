@@ -13,13 +13,13 @@ I am a PhD candidate in [CSE](https://engineering.msu.edu/about/departments/cse)
 
 ## Education
 - PhD in Computer Science and Engineering, **Michigan State University**, USA \\
-  2024 – Present
+  2024 Aug – Present
 
 - M.Sc. in Computer Science and Engineering, **UNIST**, South Korea \\
-  2022 – 2024
+  2022 Aug – 2024 Jul
   
 - B.Sc. in Computer Science and Engineering, **UNIST**, South Korea \\
-  2018 – 2022
+  2018 Aug – 2022 Jul
 
 ## Research Experience
 
