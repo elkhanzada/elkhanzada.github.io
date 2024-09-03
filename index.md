@@ -24,14 +24,14 @@ I am a PhD student in [CSE](https://engineering.msu.edu/about/departments/cse) a
 ## Research Experience
 
 - **Graduate Research Assistant**, Department of Computer Science and Engineering \\
-  **UNIST Vision and Learning**, Ulsan National Institute of Science and Technology \\
+  **[UNIST Vision and Learning](https://vision.unist.ac.kr/)**, Ulsan National Institute of Science and Technology \\
   **Project:** Pose estimation \\
   **Supervisor:** Seungryul Baek \\
   **Focus:** Hands-object pose estimation \\
   Sep 2022 – Jul 2024
   
 - **Research Assistant**, Department of Computer Science and Engineering \\
-  **Statistical Decision Making Lab**, Ulsan National Institute of Science and Technology \\
+  **[Statistical Decision Making Lab](https://sdm.unist.ac.kr/)**, Ulsan National Institute of Science and Technology \\
   **Project:** Contextual Multi-armed bandit algorithms \\
   **Supervisor:** Gi-Soo Kim \\
   **Focus:** Semiparametric contextual bandits \\
@@ -39,14 +39,14 @@ I am a PhD student in [CSE](https://engineering.msu.edu/about/departments/cse) a
   
   
 - **Research Assistant**, Department of Computer Science and Engineering \\
-  **Applied Cryptography Lab**, Ulsan National Institute of Science and Technology \\
+  **[Applied Cryptography Lab](https://k-miran.github.io/)**, Ulsan National Institute of Science and Technology \\
   **Project:** Privacy-preserving Machine Learning \\
   **Supervisor:** Miran Kim \\
   **Focus:** Secure computation during training and inference phase of model using HE \\
   Mar 2021 – Sep 2022
 
 - **Research Assistant**, Department of Computer Science and Engineering \\
-  **Software Engineering Lab**, Ulsan National Institute of Science and Technology \\
+  **[Software Engineering Lab](https://www.jooyongyi.com/)**, Ulsan National Institute of Science and Technology \\
   **Project:** Investigations on automated program repair tools \\
   **Supervisor:** Jooyong Yi \\
   **Focus:** Overfitting problem of automated program repair tools \\
