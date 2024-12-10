@@ -60,6 +60,14 @@ I am a PhD student in [CSE](https://engineering.msu.edu/about/departments/cse) a
 ## Publications
 
 ### Conferences
+- **QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects**
+  <br>
+  **Elkhan Ismayilzada***, MD Khalequzzaman Chowdhury Sayem*, Yihalem Yimolal Tiruneh, Mubarrat Tajoar Chowdhury, Muhammadjon Boboev, and Seungryul Baek
+  <br>
+  Association for the Advancement of Artificial Intelligence (AAAI), 2025
+  <br>
+  [[Paper]()]
+  
 - **Transformer-based Unified Recognition of Two Hands Manipulating Objects**
   <br>
   Hoseong Cho, Chanwoo Kim, Jihyeon Kim, Seongyeong Lee, **Elkhan Ismayilzada**, and Seungryul Baek
