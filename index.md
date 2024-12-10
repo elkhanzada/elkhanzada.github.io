@@ -26,7 +26,7 @@ I am a PhD student in [CSE](https://engineering.msu.edu/about/departments/cse) a
 ### Conferences
 - **QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects**
   <br>
-  **Elkhan Ismayilzada***, MD Khalequzzaman Chowdhury Sayem*, Yihalem Yimolal Tiruneh, Mubarrat Tajoar Chowdhury, Muhammadjon Boboev, and Seungryul Baek
+  **Elkhan Ismayilzada**\*, MD Khalequzzaman Chowdhury Sayem\*, Yihalem Yimolal Tiruneh, Mubarrat Tajoar Chowdhury, Muhammadjon Boboev, and Seungryul Baek
   <br>
   Association for the Advancement of Artificial Intelligence (AAAI), 2025
   <br>
