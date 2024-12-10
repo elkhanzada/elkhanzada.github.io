@@ -30,7 +30,7 @@ I am a PhD student in [CSE](https://engineering.msu.edu/about/departments/cse) a
   <br>
   Association for the Advancement of Artificial Intelligence (AAAI), 2025
   <br>
-  [[Paper]()]
+  [[Project](https://kcsayem.github.io/QORT-Former/)]
   
 - **Transformer-based Unified Recognition of Two Hands Manipulating Objects**
   <br>
