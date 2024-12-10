@@ -21,42 +21,6 @@ I am a PhD student in [CSE](https://engineering.msu.edu/about/departments/cse) a
 - B.Sc. in Computer Science and Engineering, **UNIST**, South Korea \\
   2018 Aug – 2022 Jul
 
-## Research Experience
-
-- **Graduate Research Assistant**, Department of Computer Science and Engineering \\
-  **[UNIST Vision and Learning](https://vision.unist.ac.kr/)**, Ulsan National Institute of Science and Technology \\
-  **Project:** Pose estimation \\
-  **Supervisor:** Seungryul Baek \\
-  **Focus:** Hands-object pose estimation \\
-  Sep 2022 – Jul 2024
-  
-- **Research Assistant**, Department of Computer Science and Engineering \\
-  **[Statistical Decision Making Lab](https://sdm.unist.ac.kr/)**, Ulsan National Institute of Science and Technology \\
-  **Project:** Contextual Multi-armed bandit algorithms \\
-  **Supervisor:** Gi-Soo Kim \\
-  **Focus:** Semiparametric contextual bandits \\
-  Mar 2021 – Oct 2022
-  
-  
-- **Research Assistant**, Department of Computer Science and Engineering \\
-  **[Applied Cryptography Lab](https://k-miran.github.io/)**, Ulsan National Institute of Science and Technology \\
-  **Project:** Privacy-preserving Machine Learning \\
-  **Supervisor:** Miran Kim \\
-  **Focus:** Secure computation during training and inference phase of model using HE \\
-  Mar 2021 – Sep 2022
-
-- **Research Assistant**, Department of Computer Science and Engineering \\
-  **[Software Engineering Lab](https://www.jooyongyi.com/)**, Ulsan National Institute of Science and Technology \\
-  **Project:** Investigations on automated program repair tools \\
-  **Supervisor:** Jooyong Yi \\
-  **Focus:** Overfitting problem of automated program repair tools \\
-  Jan 2020 – Feb 2021
-
-## Work experience
-- **Teaching Assistant**, Department of Computer Science and Engineering \\
-  Organized the exams, made and evaluated programming assignments in CSE472 Computer Vision. \\
-  Sep 2022 - Dec 2022
-
 ## Publications
 
 ### Conferences
@@ -122,6 +86,42 @@ I am a PhD student in [CSE](https://engineering.msu.edu/about/departments/cse) a
   <br>
   [[Poster](https://drive.google.com/file/d/1pLrGCSrLL-ICqgwZ0KLVnZNNkUpbvF7t/view)]
   [[Code](https://github.com/poracle100/poracle-experiments)]
+
+## Research Experience
+
+- **Graduate Research Assistant**, Department of Computer Science and Engineering \\
+  **[UNIST Vision and Learning](https://vision.unist.ac.kr/)**, Ulsan National Institute of Science and Technology \\
+  **Project:** Pose estimation \\
+  **Supervisor:** Seungryul Baek \\
+  **Focus:** Hands-object pose estimation \\
+  Sep 2022 – Jul 2024
+  
+- **Research Assistant**, Department of Computer Science and Engineering \\
+  **[Statistical Decision Making Lab](https://sdm.unist.ac.kr/)**, Ulsan National Institute of Science and Technology \\
+  **Project:** Contextual Multi-armed bandit algorithms \\
+  **Supervisor:** Gi-Soo Kim \\
+  **Focus:** Semiparametric contextual bandits \\
+  Mar 2021 – Oct 2022
+  
+  
+- **Research Assistant**, Department of Computer Science and Engineering \\
+  **[Applied Cryptography Lab](https://k-miran.github.io/)**, Ulsan National Institute of Science and Technology \\
+  **Project:** Privacy-preserving Machine Learning \\
+  **Supervisor:** Miran Kim \\
+  **Focus:** Secure computation during training and inference phase of model using HE \\
+  Mar 2021 – Sep 2022
+
+- **Research Assistant**, Department of Computer Science and Engineering \\
+  **[Software Engineering Lab](https://www.jooyongyi.com/)**, Ulsan National Institute of Science and Technology \\
+  **Project:** Investigations on automated program repair tools \\
+  **Supervisor:** Jooyong Yi \\
+  **Focus:** Overfitting problem of automated program repair tools \\
+  Jan 2020 – Feb 2021
+
+## Work experience
+- **Teaching Assistant**, Department of Computer Science and Engineering \\
+  Organized the exams, made and evaluated programming assignments in CSE472 Computer Vision. \\
+  Sep 2022 - Dec 2022
 
 ## Projects
 - **UNIST Projects** 
