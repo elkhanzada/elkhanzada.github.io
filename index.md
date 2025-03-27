@@ -31,6 +31,7 @@ I am a PhD student in [CSE](https://engineering.msu.edu/about/departments/cse) a
   Association for the Advancement of Artificial Intelligence (AAAI), 2025
   <br>
   [[Project](https://kcsayem.github.io/QORT-Former/)]
+  [[News](https://news.unist.ac.kr/new-study-unveils-ai-driven-real-time-hand-object-pose-estimation-framework/)]
   
 - **Transformer-based Unified Recognition of Two Hands Manipulating Objects**
   <br>
