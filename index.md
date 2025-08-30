@@ -122,7 +122,7 @@ I am a PhD student in [CSE](https://engineering.msu.edu/about/departments/cse) a
 ## Work experience
 - **Teaching Assistant**, Department of Computer Science and Engineering, MSU \\
   Proctored the exams, evaluated the homeworks/exams, held recitation sessions in CSE260 Discrete Structures in Computer Science. \\
-  Sep 2024 - April 2025
+  Sep 2024 - Apr 2025
 - **Teaching Assistant**, Department of Computer Science and Engineering, UNIST \\
   Organized the exams, made and evaluated programming assignments in CSE472 Computer Vision. \\
   Sep 2022 - Dec 2022
