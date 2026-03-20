@@ -8,7 +8,7 @@ I am a PhD student in [CSE](https://engineering.msu.edu/about/departments/cse) a
 
 ## Research Interests
 
-- **Computer Vision:** pose estimation, 3D reconstruction.
+- **Computer Vision:** 3D reconstruction, motion recovery
 - **Machine Learning:** deep learning, meta-learning, incremental learning.
 
 ## Education
