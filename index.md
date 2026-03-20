@@ -145,15 +145,3 @@ I am a PhD student in [CSE](https://engineering.msu.edu/about/departments/cse) a
   Simple quiz game which is made with Unity, published in Google Play Store and has over 10 thousand downloads.
   <br>
   [[Google Play](https://play.google.com/store/apps/details?id=com.elkhan.paytaxt)] [[Code](https://github.com/elkhanzada/paytaxt)]
-
-- **Movie Recommendation App**
-  <br>
-  Web App that is made with Spring for backend and jQuery / HTML for frontend.
-  <br>
-  [[Code](https://github.com/elkhanzada/movie-recommendation-app)]
-
-- **E-Commerce in React**
-  <br>
-  Web App that is made with React + Redux. For storing user’s information, Firebase is integrated.
-  <br>
-  [[Code](https://github.com/elkhanzada/react-e-commerce)]
