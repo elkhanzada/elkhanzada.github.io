@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student in [CSE](https://engineering.msu.edu/about/departments/cse) at [Michigan State University](https://msu.edu/). My current research interests include 3D reconstruction, pose estimation.
+I am a PhD candidate in [CSE](https://engineering.msu.edu/about/departments/cse) at [Michigan State University](https://msu.edu/). My current research interests include 3D reconstruction, physics-informed computer vision.
 
 ## Research Interests
 
