@@ -24,6 +24,14 @@ I am a PhD student in [CSE](https://engineering.msu.edu/about/departments/cse) a
 ## Publications
 
 ### Conferences
+- **PAD-Hand: Physics-Aware Diffusion for Hand Motion Recovery**
+  <br>
+  **Elkhan Ismayilzada**, Yufei Zhang, and Zijun Cui
+  <br>
+  Computer Vision and Pattern Recognition (CVPR), 2026
+  <br>
+  [[Project](https://elkhanzada.github.io/pad-hand/)]
+  
 - **QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects**
   <br>
   **Elkhan Ismayilzada**\*, MD Khalequzzaman Chowdhury Sayem\*, Yihalem Yimolal Tiruneh, Mubarrat Tajoar Chowdhury, Muhammadjon Boboev, and Seungryul Baek
@@ -37,7 +45,7 @@ I am a PhD student in [CSE](https://engineering.msu.edu/about/departments/cse) a
   <br>
   Hoseong Cho, Chanwoo Kim, Jihyeon Kim, Seongyeong Lee, **Elkhan Ismayilzada**, and Seungryul Baek
   <br>
-  Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), 2023
+  Computer Vision and Pattern Recognition (CVPR), 2023
   <br>
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Cho_Transformer-Based_Unified_Recognition_of_Two_Hands_Manipulating_Objects_CVPR_2023_paper.pdf)]
 
