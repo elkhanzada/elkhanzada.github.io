@@ -76,25 +76,6 @@ I am a PhD student in [CSE](https://engineering.msu.edu/about/departments/cse) a
   <br>
   [[Paper](https://doi.org/10.1016/j.infsof.2022.106865)]
   [[Code](https://github.com/jyi/fangelix)]
-  
-### Posters
-- **Development of news article recommendation system via reinforcement learning**
-  <br>
-  **Elkhan Ismayilzada**, Sayem K. Chowdury, and Mubarrat T. Chowdury
-  <br>
-  Poster presented at: UNIST; Dec 3 2021; Ulsan, Republic of Korea.
-  <br>
-  [[Poster](https://drive.google.com/file/d/1NgkcPL2f6GhuSm-gaBw9lTEbMrHrZZ1S/view)]
-  [[Code](https://github.com/kcsayem/Parallelization-of-bandit-algorithms-to-reduce-computational-cost-of-news-article-recommendation-sys)]
-
-- **Bang for the Buck: Filtering Out Hundreds of Incorrect Patches with a Single Generalized Test**
-  <br>
-  **Elkhan Ismayilzada**, Mazba Ur Rahman, Dongsun Kim, and Jooyong Yi
-  <br>
-  International Conference on Software Engineering (Submitted).
-  <br>
-  [[Poster](https://drive.google.com/file/d/1pLrGCSrLL-ICqgwZ0KLVnZNNkUpbvF7t/view)]
-  [[Code](https://github.com/poracle100/poracle-experiments)]
 
 ## Research Experience
 
@@ -102,7 +83,7 @@ I am a PhD student in [CSE](https://engineering.msu.edu/about/departments/cse) a
   **[UNIST Vision and Learning](https://vision.unist.ac.kr/)**, Ulsan National Institute of Science and Technology \\
   **Project:** Pose estimation \\
   **Supervisor:** Seungryul Baek \\
-  **Focus:** Hands-object pose estimation \\
+  **Focus:** Hand-object pose estimation \\
   Sep 2022 – Jul 2024
   
 - **Research Assistant**, Department of Computer Science and Engineering \\
@@ -111,7 +92,6 @@ I am a PhD student in [CSE](https://engineering.msu.edu/about/departments/cse) a
   **Supervisor:** Gi-Soo Kim \\
   **Focus:** Semiparametric contextual bandits \\
   Mar 2021 – Oct 2022
-  
   
 - **Research Assistant**, Department of Computer Science and Engineering \\
   **[Applied Cryptography Lab](https://k-miran.github.io/)**, Ulsan National Institute of Science and Technology \\
