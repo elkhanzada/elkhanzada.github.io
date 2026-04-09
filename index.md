@@ -25,6 +25,7 @@ I am a PhD candidate in [CSE](https://engineering.msu.edu/about/departments/cse)
 
 ### Conferences
 - **PAD-Hand: Physics-Aware Diffusion for Hand Motion Recovery**
+  **[Highlight Paper]**
   <br>
   **Elkhan Ismayilzada**, Yufei Zhang, and Zijun Cui
   <br>
