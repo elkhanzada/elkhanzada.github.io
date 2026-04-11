@@ -4,7 +4,8 @@ navbar_name: "Elkhan Ismayilzada"
 
 positions:
 - name: PhD Candidate
-- name: Computer Science and Engineering, Michigan State University
+- name: Computer Science and Engineering
+- name: Michigan State University
 
 email: "ismayil1@msu.edu"
 # cv_link: link-to-your-cv-file
