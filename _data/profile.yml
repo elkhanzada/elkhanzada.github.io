@@ -1,0 +1,54 @@
+primary_name: "Elkhan Ismayilzada"
+secondary_name: ""
+navbar_name: "Elkhan Ismayilzada"
+
+positions:
+- name: PhD Candidate
+- name: Computer Science and Engineering, Michigan State University
+
+email: "ismayil1@msu.edu"
+# cv_link: link-to-your-cv-file
+gscholar: eDlBK6MAAAAJ
+github: elkhanzada
+linkedin: elkhanzada
+# twitter: your_twitter_id
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am a PhD candidate in <a href="https://engineering.msu.edu/about/departments/cse" target="_blank">Computer Science and Engineering</a>
+    at <a href="https://msu.edu/" target="_blank">Michigan State University</a>.
+    My current research interests include 3D reconstruction and physics-informed computer vision.
+  </p>
+  <p>
+    <strong>Research Interests:</strong> Computer Vision (3D reconstruction, motion recovery),
+    Machine Learning (deep learning, meta-learning, incremental learning).
+  </p>
+
+portrait_url: /assets/images/photos/my_pic.jpg
+# portrait_caption: >-
+
+education:
+- name: Michigan State University
+  logo: /assets/images/photos/msu_logo.svg
+  position: >-
+    PhD Candidate, Computer Science and Engineering
+  date: Aug. 2024 - present
+- name: Ulsan National Institute of Science and Technology (UNIST)
+  logo: /assets/images/photos/unist_logo.png
+  position: M.Sc. in Computer Science and Engineering
+  date: Jul. 2024
+- name: Ulsan National Institute of Science and Technology (UNIST)
+  logo: /assets/images/photos/unist_logo.png
+  position: B.Sc. in Computer Science and Engineering
+  date: Jul. 2022
+
+# experience:
+# - name: Michigan State University
+#   logo: /assets/images/photos/msu_logo.svg
+#   position: Teaching Assistant, CSE260 Discrete Structures
+#   date: Sep. 2024 - Apr. 2025
+# - name: UNIST
+#   logo: /assets/images/photos/unist_logo.png
+#   position: Teaching Assistant, CSE472 Computer Vision
+#   date: Sep. 2022 - Dec. 2022
